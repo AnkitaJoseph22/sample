@@ -1,2 +1,6 @@
 Hello from ankita
+<<<<<<< HEAD
 No I am not
+=======
+I am chutiya
+>>>>>>> a3c796265d359712b198ea7a31c8768705b3d296
